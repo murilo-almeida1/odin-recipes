@@ -11,13 +11,13 @@ body h1 {
 }
 
 body h3 {
-    color: hsl(0, 100%, 50%);
+    color: hsl(0, 100%, 81%);
     font-weight: 400;
 }
 
 body strong,
 body em {
-    color: hsl(30, 100%, 50%);
+    color: hsl(30, 100%, 63%);
 }
 
 #description-paragraph {
